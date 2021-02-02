@@ -11,3 +11,4 @@ Foundations
 7 - A program that repeats reading a password until it is valid.
 8 - This program reads the coordinates (X, Y) of an undetermined number of points in the Cartesian system.
 9 - A gas station wants to determine which of its products is preferred by its customers.
+10 - This program will read two integers M and N, and then it will read an array of M lines per N columns containing integers, with possible repetitions.... 
